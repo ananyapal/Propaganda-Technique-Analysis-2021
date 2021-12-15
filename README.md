@@ -32,14 +32,8 @@ The backend abstracts the following APIs
 
 ## Files
 
-All of the shared files are in the [Drive folder](https://drive.google.com/drive/folders/1Qwv4Kl1IPNj0NpoSsEUbnG8hqwUu0waB?usp=sharing).  
-Anyone not in the group will need to request access.
-
-Original Kaggle data of the "All the News" dataset are the files: `articles.csv`, `articles2.csv` and `articles3.csv`
-
-The preprocessed data that we will be using (for now) is: `articles1-pp.csv`  
-I have populated it with random score instances for now:
-<img src="preprocessing/How the csv data looks like.png" style="border:black; border-width:1px; border-style:solid;"  alt="How the csv data looks like"/>
+Kaggle Dataset: https://www.kaggle.com/snapcrack/all-the-news
+Original Kaggle data of the "All the News" dataset are the files: `articles1.csv`, `articles2.csv` and `articles3.csv`
 
 Install the data files and store them in a directory named 'archive' in the project directory.
 With this, you are all set!
