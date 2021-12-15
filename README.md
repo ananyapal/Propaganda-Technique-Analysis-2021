@@ -1,6 +1,6 @@
 # Analysis of Newspaper Propaganda Biases
 
-We present a system which visualizes newspaper biases on the basis of propaganda techniques using PRTA API. The system is an unbrella containing two applications, a JS frontend powered by d3.js and a flask backend.
+We present a system which visualizes newspaper biases on the basis of propaganda techniques using PRTA API. The system is an umbrella containing two applications, a JS frontend powered by d3.js and a flask backend.
 
 The JS frontend can be hosted on a simple live server. We recommend a VS code live server or a live python http server using
 ```sh
